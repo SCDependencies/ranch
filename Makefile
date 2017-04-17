@@ -5,7 +5,7 @@ PROJECT = ranch
 # Dependencies.
 
 TEST_DEPS = ct_helper
-dep_ct_helper = git https://github.com/extend/ct_helper.git master
+dep_ct_helper = git https://github.com/SCDependencies/ct_helper.git SC-master
 
 # Options.
 
